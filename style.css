@@ -32,7 +32,7 @@
 .main__block {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .main__wrapper {
   display: flex;
@@ -119,7 +119,7 @@ input,button{
   width: 226px;
 }
 .main__list-task {
-  width: 226px
+  width: 226px;
 }
 .button-delete__img {
   height: 2em;
@@ -132,14 +132,14 @@ input,button{
 
 /* Completed */
 .main__list-label-done {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .main__list-item
 .main__list-task {
-  display: none
+  display: none;
 }
 
 .edit-main
